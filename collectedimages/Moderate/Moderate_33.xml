@@ -1,0 +1,38 @@
+<annotation>
+  <folder>Moderate_22</folder>
+  <filename>Moderate_33.jpg</filename>
+  <path>C:\Users\91966\Downloads\collected images for rust 19-11-21\Moderate_22\Moderate_33.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>250</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Moderate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>164</xmin>
+      <ymin>86</ymin>
+      <xmax>286</xmax>
+      <ymax>152</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Moderate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>291</xmin>
+      <ymin>70</ymin>
+      <xmax>336</xmax>
+      <ymax>138</ymax>
+    </bndbox>
+  </object>
+</annotation>
